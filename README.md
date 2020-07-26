@@ -1,3 +1,13 @@
+
+<!-- TOC -->
+
+- [PC](#pc)
+    - [Generic Configurations](#generic-configurations)
+    - [OS Specific Tools](#os-specific-tools)
+    - [Cross Platform Tools](#cross-platform-tools)
+    - [Cross Platform Dev Tools](#cross-platform-dev-tools)
+
+<!-- /TOC -->
 # PC 
 
 a quick step by step checklist for fresh a PC installation.
@@ -18,6 +28,7 @@ refer to OS specific MD file
     * live server
     * Github pull reuqests and issues
     * Markdown Preview Github Styling
+    * Auto Markdown TOC
 
 
 ## Cross Platform Dev Tools

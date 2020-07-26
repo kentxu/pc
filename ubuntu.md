@@ -8,7 +8,7 @@ Specific steps to init a typical ubuntu env.
 echo "install basic utilities"
 sudo -s
 apt update
-apt install curl git nodejs npm net-tools openssh-server
+apt install curl git nodejs npm net-tools openssh-server fswatch
 apt autoremove
 
 

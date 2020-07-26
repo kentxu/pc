@@ -8,3 +8,10 @@
 * SDKMan
     * jdk, maven, visualvm
 * VMWare Fusion
+
+
+## Init script
+```
+brew install fswatch
+
+```
