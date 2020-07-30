@@ -25,6 +25,7 @@ refer to OS specific MD file
 * Skype
 * VeraCrypt
 * Visual Studio Code
+    * configure git options: git path; default repo path
     * live server
     * Github pull reuqests and issues
     * Markdown Preview Github Styling
