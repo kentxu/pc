@@ -39,3 +39,11 @@ init user home structure, symlink or phyiscal dir
 
 or  WMD+R and ```shell:sendto``` to open it
 
+## Shortcut Refresh Course
+
+#### switch between windows for the same app
+
+This is particularly useful w/ virtual desktop. If the app is the first item in the task bar
+> win+1
+
+For this reason, it is best to place the most used apps as the first several pinned app. 
