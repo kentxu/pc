@@ -4,6 +4,8 @@
 - [Git](#git)
 - [CYGWIN](#cygwin)
 - [Customize Sendto](#customize-sendto)
+- [Shortcut Refresh Course](#shortcut-refresh-course)
+        - [switch between windows for the same app](#switch-between-windows-for-the-same-app)
 
 <!-- /TOC -->
 ## Tools
