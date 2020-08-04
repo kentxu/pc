@@ -36,6 +36,7 @@ refer to OS specific MD file
 
 * NPM
 * Eclipse
+    * logviewer
 * docker
     * AWS CLI
 * Git
