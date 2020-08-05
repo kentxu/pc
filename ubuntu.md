@@ -19,6 +19,7 @@ snap  install code --classic
 snap  install eclipse --classic
 snap install youtube-dl
 snap install docker
+snap install ffmpeg
 
 
 echo "install sdkman"
