@@ -11,7 +11,7 @@
 <!-- /TOC -->
 # PC 
 
-a quick step by step checklist for fresh a PC installation.
+a quick checklist for fresh PC setup.
 
 ## Generic Configurations
 * VPN

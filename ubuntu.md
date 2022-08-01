@@ -7,6 +7,7 @@ Specific steps to init a typical ubuntu env.
 ```
 echo "install basic utilities"
 sudo -s
+chmod og-rwx ~/
 apt update
 apt upgrade
 apt install curl git nodejs npm net-tools openssh-server fswatch open-vm-tools
