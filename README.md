@@ -6,6 +6,7 @@
     - [OS Specific Tools](#os-specific-tools)
     - [Cross Platform Tools](#cross-platform-tools)
     - [Cross Platform Dev Tools](#cross-platform-dev-tools)
+    - [Background, Icon, Font](#background-icon-font)
 
 <!-- /TOC -->
 # PC 
@@ -42,4 +43,7 @@ refer to OS specific MD file
 * Git
 * Maven
 
+## Background, Icon, Font
 
+https://www.youtube.com/watch?v=0frkeDJ_1Og
+https://www.youtube.com/watch?v=GPQhIrp1AJ4
