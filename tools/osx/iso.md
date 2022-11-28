@@ -82,6 +82,7 @@ mv ~/"Desktop/$osx.cdr" ~/"Desktop/$osx.iso"
 Mojave (10.14) 6800M
 Catalina (10.15) 8500M
 Bit Sur (11) 125000M
+Monterey (12) 15000M
 
 
 ## References
